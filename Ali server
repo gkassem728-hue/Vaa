@@ -1,1 +1,17 @@
-
+{
+  "status": "active",
+  "users": [
+    {
+      "code": "Ali123",
+      "status": "registered",
+      "expire_date": "2027-12-31",
+      "days_left": 365
+    },
+    {
+      "code": "Ali456",
+      "status": "registered",
+      "expire_date": "2027-06-30",
+      "days_left": 180
+    }
+  ]
+}
